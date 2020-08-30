@@ -1,1 +1,4 @@
 
+[submodule "folder_subm"]
+	path = folder_subm
+	url = https://github.com/pavel-b-kr12/submod1.git
