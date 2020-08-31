@@ -2,3 +2,6 @@
 [submodule "folder_subm"]
 	path = folder_subm
 	url = https://github.com/pavel-b-kr12/submod1.git
+[submodule "test3"]
+	path = test3
+	url = https://github.com/pavel-b-kr12/test3.git
